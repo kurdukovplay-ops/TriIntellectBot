@@ -18,6 +18,10 @@ Telegram-бот с тремя ИИ-моделями в одном интерфе
 - `/models` — список моделей
 - `/help` — справка
 
+- ## Контакты
+- Telegram: [@KANEKANEDIT](https://t.me/KANEKANEDIT)
+- GitHub: [kurdukovplay-ops](https://github.com/kurdukovplay-ops)
+
 ## Технологии
 - Python 3
 - pyTelegramBotAPI
